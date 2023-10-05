@@ -16,3 +16,5 @@ An online application that records the arrival and departure of inventory while 
 - Log actions from users
 - Reporting.
 
+### Licence
+[GNU AGPLv3](https://www.gnu.org/licenses/)
